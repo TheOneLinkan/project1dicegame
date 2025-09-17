@@ -102,7 +102,8 @@ public class Game {
             sb.append("Matchen blev oavgjord!");
         }
 
-        JOptionPane.showMessageDialog(null, sb.toString(), gameName, JOptionPane.PLAIN_MESSAGE, gameIcon);
+        JOptionPane.showMessageDialog(null, sb.toString(), gameName,
+        JOptionPane.PLAIN_MESSAGE, gameIcon);
     }
 }
 
