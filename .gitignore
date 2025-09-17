@@ -11,6 +11,17 @@ target/
 *.iws
 *.iml
 *.ipr
+out/
+
+### Logs ###
+*.log
+
+### Temporary / backup files ###
+*.tmp
+*.bak
+
+### Windows OS ###
+Thumbs.db
 
 ### Eclipse ###
 .apt_generated
